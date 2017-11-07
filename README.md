@@ -24,3 +24,5 @@ node index
 ```
 
 Open the browser and make a request to `http://localhost:8080/ping` and then to `http://localhost:8080/error`. Wait a few moments and see the data being populated into the Application Insights dashboards.
+
+![image](https://user-images.githubusercontent.com/12012898/32508881-090bf462-c3ec-11e7-9d8a-d514eb41b0a8.png)
