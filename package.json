@@ -1,0 +1,24 @@
+{
+  "name": "applicationinsights.nodejs",
+  "version": "1.0.0",
+  "description": "Monitoring Node JS applications with Applications Insights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RARomano/ApplicationInsights.NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RARomano/ApplicationInsights.NodeJS/issues"
+  },
+  "homepage": "https://github.com/RARomano/ApplicationInsights.NodeJS#readme",
+  "dependencies": {
+    "applicationinsights": "^1.0.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
